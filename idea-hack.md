@@ -15,3 +15,4 @@ YZVR7WDLV8-eyJsaWNlbnNlSWQiOiJZWlZSN1dETFY4IiwibGljZW5zZWVOYW1lIjoiamV0YnJhaW5zI
 ```
 
 参考：http://blog.lanyus.com/
+idea download： https://www.jetbrains.com/idea/download/other.html
